@@ -98,4 +98,4 @@ def main():
         print("Terjadi kesalahan dalam preprocessing data.")
 
 if __name__ == "__main__":
-    main()
+    main() # Menjalankan fungsi utama
